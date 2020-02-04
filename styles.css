@@ -18,7 +18,15 @@ h1 {
   margin: 30px;
   font-family: 'Lobster', cursive;
   text-shadow: 5px 0 #232931;
-  font-size: 3rem;
+  font-size: 8rem;
+  color: rgb(101, 233, 189);
+}
+h3 {
+  margin: 30px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  /* font-family: 'Lobster', cursive; */
+  text-shadow: 5px 0 #232931;
+  font-size: 2rem;
   color: #4ECCA3;
 }
 
